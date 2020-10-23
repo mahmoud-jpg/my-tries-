@@ -1,2 +1,3 @@
-# my-tries-
-to more learn
+# my-project
+my first project
+welcome to my first project 
